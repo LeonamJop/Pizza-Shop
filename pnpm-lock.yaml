@@ -41,6 +41,9 @@ dependencies:
   clsx:
     specifier: ^2.1.0
     version: 2.1.0
+  date-fns:
+    specifier: ^3.4.0
+    version: 3.4.0
   dlx:
     specifier: ^0.2.1
     version: 0.2.1
@@ -2581,6 +2584,10 @@ packages:
   /data-uri-to-buffer@4.0.1:
     resolution: {integrity: sha512-0R9ikRb668HB7QDxT1vkpuUBtqc53YyAwMwGeUFKRojY/NWKvdZ+9UYtRfGmhqNbRkTSVpMbmyhXipFFv2cb/A==}
     engines: {node: '>= 12'}
+    dev: false
+
+  /date-fns@3.4.0:
+    resolution: {integrity: sha512-Akz4R8J9MXBsOgF1QeWeCsbv6pntT5KCPjU0Q9prBxVmWJYPLhwAIsNg3b0QAdr0ttiozYLD3L/af7Ra0jqYXw==}
     dev: false
 
   /debug@3.2.7:
